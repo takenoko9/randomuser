@@ -1,0 +1,13 @@
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\bin\Debug\netstandard2.0\toshiapp.deps.json
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\bin\Debug\netstandard2.0\toshiapp.dll
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\bin\Debug\netstandard2.0\toshiapp.pdb
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\obj\Debug\netstandard2.0\toshiapp.csprojAssemblyReference.cache
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\obj\Debug\netstandard2.0\toshiapp.csproj.CoreCompileInputs.cache
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\obj\Debug\netstandard2.0\toshiapp.AssemblyInfoInputs.cache
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\obj\Debug\netstandard2.0\toshiapp.AssemblyInfo.cs
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\obj\Debug\netstandard2.0\toshiapp.dll
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\obj\Debug\netstandard2.0\toshiapp.pdb
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\obj\Debug\netstandard2.0\GeneratorPage.xaml.g.cs
+C:\Users\toshihiro\source\repos\toshiapp\toshiapp\toshiapp\obj\Debug\netstandard2.0\XamlC.stamp
